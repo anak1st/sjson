@@ -1,0 +1,23 @@
+{
+  "configurations": [
+    {
+      "cStandard": "c17",
+      "compilerPath": "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.34.31933/bin/Hostx64/x64/cl.exe",
+      "configurationProvider": "ms-vscode.cmake-tools",
+      "cppStandard": "c++20",
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "includePath": [
+        "${workspaceFolder}/**",
+        "${workspaceFolder}/build/vcpkg_installed/**"
+      ],
+      "intelliSenseMode": "windows-msvc-x64",
+      "name": "Win32",
+      "windowsSdkVersion": "10.0.22000.0"
+    }
+  ],
+  "version": 4
+}
