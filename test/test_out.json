@@ -1,4 +1,5 @@
 {
+  "config": 123,
   "configurations": [
     {
       "cStandard": "c17",
@@ -12,7 +13,8 @@
       ],
       "includePath": [
         "${workspaceFolder}/**",
-        "${workspaceFolder}/build/vcpkg_installed/**"
+        "${workspaceFolder}/build/vcpkg_installed/**",
+        "${workspaceFolder}\\build\\vcpkg_installed\\**"
       ],
       "intelliSenseMode": "windows-msvc-x64",
       "name": "Win32",
